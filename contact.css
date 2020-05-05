@@ -1,0 +1,60 @@
+ body
+{
+	  margin:0;
+	  padding:0;
+	  background:url(bgimg.jpg);
+	  background-size:cover;
+	  background-position:center;
+	  text-align:center;
+}
+.title
+{
+	margin-top:100px;
+	color:#fff;
+}
+.title h1
+{
+	font-size:32px;
+	line-height:10px;
+	font-family:Times New Roman;
+}
+.pclass
+{
+	font-size:20px;
+	color:#F1BDEE;
+}
+form
+{
+	margin-top:50px;
+}
+.inputform
+{
+	width:600px;
+	background:transparent;
+	border:none;
+	outline:none;
+	border-bottom:1px solid gray;
+	color:#fff;
+	font-size:18px;
+	margin-bottom:16px;
+}
+inputform
+{
+	height:45px;
+}
+.inputformsubmit
+{
+	border:none;
+	outline:none;
+	height:40px;
+	background:magenta;
+	color:#000;
+	font-size:18px;
+	border-radius:10px;
+}
+.inputformsubmit:hover
+{
+	cursor:pointer;
+	background:blue;
+	color:#000;
+}
